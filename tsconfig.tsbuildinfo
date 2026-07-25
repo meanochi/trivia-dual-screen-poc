@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/admin/AdminScreen.tsx","./src/core/adminStore.ts","./src/core/db.ts","./src/core/demoData.ts","./src/core/format.ts","./src/core/reducer.ts","./src/core/types.ts","./src/display/DisplayScreen.tsx"],"version":"5.9.3"}
